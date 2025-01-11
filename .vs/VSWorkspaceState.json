@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api"
+    "\\api",
+    "\\public"
   ],
-  "SelectedNode": "\\build.sh",
+  "SelectedNode": "\\vercel.json",
   "PreviewInSolutionExplorer": false
 }

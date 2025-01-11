@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\api",
-    "\\resources",
-    "\\resources\\views",
-    "\\routes"
+    "\\resources\\views"
   ],
-  "SelectedNode": "\\vercel.json",
   "PreviewInSolutionExplorer": false
 }

@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "vercel.json",
               "ToolTip": "C:\\Users\\reyke\\Documents\\GitHub\\mygame\\vercel.json",
               "RelativeToolTip": "vercel.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-11T21:25:11.258Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "api\\index.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-11T21:24:40.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T21:24:40.319Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "resources\\views\\welcome.blade.php",
               "ViewState": "AgIAAL4AAAAAAAAAAAAmwNcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-11T16:06:12.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:06:12.559Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "routes\\web.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-11T16:05:58.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:05:58.204Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": ".env.example",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-11T16:02:11.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:02:11.852Z"
             }
           ]
         }

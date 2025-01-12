@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\config"
   ],
-  "SelectedNode": "\\Procfile",
+  "SelectedNode": "\\runtime.txt",
   "PreviewInSolutionExplorer": false
 }

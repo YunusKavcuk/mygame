@@ -17,8 +17,10 @@ return [
     |            "memcached", "redis", "dynamodb", "array"
     |
     */
+    'driver' => 'array',
 
     'driver' => env('SESSION_DRIVER', 'database'),
+
 
     /*
     |--------------------------------------------------------------------------

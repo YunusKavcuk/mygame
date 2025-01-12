@@ -57,10 +57,7 @@
             "dont-discover": []
         }
     },
-    "config": {
-        "platform": {
-        "php": "8.2"
-        }   
+    "config": { 
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
